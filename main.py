@@ -1,6 +1,6 @@
 from pyguiadapter.adapter import GUIAdapter
 
-from qrcode_maker import make_qrcode
+from qrcode_maker.qrcode import make_qrcode
 
 
 def main():
